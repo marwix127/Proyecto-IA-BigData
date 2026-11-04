@@ -1,0 +1,17 @@
+{
+  "puntos": [
+    { "id": "madrid",   "nombre": "Madrid",   "grupo": "temperatura", "latitud": 40.42, "longitud": -3.70 },
+    { "id": "lugo",     "nombre": "Lugo",     "grupo": "viento",      "latitud": 43.01, "longitud": -7.56 },
+    { "id": "cordoba",  "nombre": "Córdoba",  "grupo": "solar",       "latitud": 37.88, "longitud": -4.78 },
+    { "id": "barcelona","nombre": "Barcelona","grupo": "temperatura", "latitud": 41.38, "longitud": 2.17 },
+    { "id": "bilbao",   "nombre": "Bilbao",   "grupo": "viento",      "latitud": 43.26, "longitud": -2.93 },
+    { "id": "sevilla",  "nombre": "Sevilla",  "grupo": "solar",       "latitud": 37.38, "longitud": -5.98 },
+    { "id": "valencia", "nombre": "Valencia", "grupo": "temperatura", "latitud": 39.47, "longitud": -0.38 },
+    { "id": "zaragoza", "nombre": "Zaragoza", "grupo": "viento", "latitud": 41.65, "longitud": -0.88 },
+    { "id": "albacete", "nombre": "Albacete", "grupo": "solar", "latitud": 38.99, "longitud": -1.86 },
+    { "id": "burgos",   "nombre": "Burgos",   "grupo": "temperatura", "latitud": 42.34, "longitud": -3.70 },
+    { "id": "badajoz",  "nombre": "Badajoz",  "grupo": "viento", "latitud": 38.88, "longitud": -6.97 },
+    { "id": "ciudadreal", "nombre": "Ciudad Real", "grupo": "solar", "latitud": 38.98, "longitud": -3.93 },
+    { "id": "murcia",   "nombre": "Murcia",   "grupo": "temperatura", "latitud": 37.99, "longitud": -1.13 }
+  ]
+}
