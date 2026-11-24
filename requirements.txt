@@ -1,0 +1,16 @@
+# Dependencias del proyecto (Python 3.14)
+# Instalar con: .\.venv\Scripts\python.exe -m pip install -r requirements.txt
+
+# Ingesta (API de ESIOS / Open-Meteo)
+requests==2.34.2
+python-dotenv==1.2.4
+
+# Procesamiento y almacenamiento (Parquet)
+# PySpark necesita Java 17/21 (JAVA_HOME) y, en Windows, winutils.exe + hadoop.dll en %HADOOP_HOME%\bin
+pyspark==4.3.0
+pandas==3.1.1
+pyarrow==26.0.1
+
+# Notebooks y gráficos
+ipykernel==7.4.0
+matplotlib==3.11.2
